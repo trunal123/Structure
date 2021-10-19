@@ -1,0 +1,75 @@
+19 Oct 2021 14:28:13 INFO   [Log] - Logger invoked
+19 Oct 2021 14:28:13 INFO   [Log] - Chrome invoked
+19 Oct 2021 14:28:16 INFO   [Log] - Chrome browser instantiated
+19 Oct 2021 14:28:16 INFO   [SeleniumCommon] - Implicit wait applied on the driver for 30 seconds
+19 Oct 2021 14:28:20 INFO   [Log] - Web application launched: https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1%3Cmpl%3Ddefault%3Cmplcache%3D2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+19 Oct 2021 14:28:20 INFO   [Log] - Current Page Title: Gmail
+19 Oct 2021 14:28:20 INFO   [Log] - Current Title Matches with Expected Title.
+19 Oct 2021 14:28:20 INFO   [Log] - Username: ouchdemo1@gmail.com
+19 Oct 2021 14:28:20 INFO   [Log] - Password: Test@1234
+19 Oct 2021 14:28:20 INFO   [Log] - Locator Type:- xpath Locator Value:-//input[@id='identifierId']
+19 Oct 2021 14:28:20 INFO   [Log] - Locator: By.xpath: //input[@id='identifierId']
+19 Oct 2021 14:28:20 INFO   [SeleniumCommon] - Page Load Status:complete
+19 Oct 2021 14:28:20 INFO   [Log] - Element found:-By.xpath: //input[@id='identifierId']
+19 Oct 2021 14:28:20 INFO   [SeleniumCommon] - Time:0 seconds
+19 Oct 2021 14:28:23 INFO   [Log] - Locator Type:- xpath Locator Value:-//*[@id="identifierNext"]
+19 Oct 2021 14:28:23 INFO   [Log] - Locator: By.xpath: //*[@id="identifierNext"]
+19 Oct 2021 14:28:23 INFO   [SeleniumCommon] - Page Load Status:complete
+19 Oct 2021 14:28:23 INFO   [Log] - Element found:-By.xpath: //*[@id="identifierNext"]
+19 Oct 2021 14:28:23 INFO   [SeleniumCommon] - Time:0 seconds
+19 Oct 2021 14:28:23 INFO   [Log] - Clicking on next Button
+19 Oct 2021 14:28:25 INFO   [Log] - Locator Type:- xpath Locator Value:-//input[@type='password']
+19 Oct 2021 14:28:25 INFO   [Log] - Locator: By.xpath: //input[@type='password']
+19 Oct 2021 14:28:25 INFO   [SeleniumCommon] - Page Load Status:complete
+19 Oct 2021 14:28:25 INFO   [Log] - Element found:-By.xpath: //input[@type='password']
+19 Oct 2021 14:28:25 INFO   [SeleniumCommon] - Time:0 seconds
+19 Oct 2021 14:28:25 INFO   [Log] - Entered username and password
+19 Oct 2021 14:28:25 INFO   [Log] - Locator Type:- xpath Locator Value:-//*[@id="passwordNext"]
+19 Oct 2021 14:28:25 INFO   [Log] - Locator: By.xpath: //*[@id="passwordNext"]
+19 Oct 2021 14:28:25 INFO   [SeleniumCommon] - Page Load Status:complete
+19 Oct 2021 14:28:26 INFO   [Log] - Element found:-By.xpath: //*[@id="passwordNext"]
+19 Oct 2021 14:28:26 INFO   [SeleniumCommon] - Time:1 seconds
+19 Oct 2021 14:28:26 INFO   [Log] - Clicking on next Button
+19 Oct 2021 14:28:37 INFO   [Log] - Actual title:Inbox - ouchdemo1@gmail.com - Gmail
+19 Oct 2021 14:28:37 INFO   [Log] - user logged in  is matching
+19 Oct 2021 14:28:37 INFO   [Log] - Searched by Id trunal.thakare@gmail.com
+19 Oct 2021 14:28:39 INFO   [Log] - Locator Type:- xpath Locator Value:-//div[@class="au"] //div[@class="av"]
+19 Oct 2021 14:28:39 INFO   [Log] - Locator: By.xpath: //div[@class="au"] //div[@class="av"]
+19 Oct 2021 14:28:39 INFO   [SeleniumCommon] - Page Load Status:complete
+19 Oct 2021 14:28:40 INFO   [Log] - Element found:-By.xpath: //div[@class="au"] //div[@class="av"]
+19 Oct 2021 14:28:40 INFO   [SeleniumCommon] - Time:1 seconds
+19 Oct 2021 14:28:43 INFO   [Log] - Locator Type:- xpath Locator Value:-//a[@href="https://www.flickonclick.com/checkout-these-exciting-latest-offers-from-jiomart/"]
+19 Oct 2021 14:28:43 INFO   [Log] - Locator: By.xpath: //a[@href="https://www.flickonclick.com/checkout-these-exciting-latest-offers-from-jiomart/"]
+19 Oct 2021 14:28:43 INFO   [SeleniumCommon] - Page Load Status:complete
+19 Oct 2021 14:28:43 INFO   [Log] - Element found:-By.xpath: //a[@href="https://www.flickonclick.com/checkout-these-exciting-latest-offers-from-jiomart/"]
+19 Oct 2021 14:28:43 INFO   [SeleniumCommon] - Time:0 seconds
+19 Oct 2021 14:28:44 INFO   [Log] - Click on link available in the mail
+19 Oct 2021 14:28:49 INFO   [Log] - link is matching
+19 Oct 2021 14:29:01 INFO   [Log] - Clicked on Google apps
+19 Oct 2021 14:29:06 INFO   [Log] - Switched to frame
+19 Oct 2021 14:29:11 INFO   [Log] - Clicked on Chat
+19 Oct 2021 14:29:16 INFO   [Log] - Switched to window
+19 Oct 2021 14:29:16 INFO   [Log] - Return:CDwindow-9992C21702600743B4D836B63B93619A
+19 Oct 2021 14:29:16 INFO   [Log] - Switched to window
+19 Oct 2021 14:29:16 INFO   [Log] - Return:CDwindow-ABA8AA455E3354D15078A893FF3386B7
+19 Oct 2021 14:29:16 INFO   [Log] - Switched to window
+19 Oct 2021 14:29:16 INFO   [Log] - Return:CDwindow-2DA6739B1E363083762C25ABEC98F418
+19 Oct 2021 14:29:30 INFO   [Log] - Visible
+19 Oct 2021 14:29:30 INFO   [Log] - Clikable
+19 Oct 2021 14:29:30 INFO   [Log] - Clicked on Not now
+19 Oct 2021 14:29:35 INFO   [Log] - Clicked on start a chat
+19 Oct 2021 14:29:45 INFO   [Log] - Switched to frame
+19 Oct 2021 14:29:53 INFO   [Log] - Sent Receiver emailId 
+19 Oct 2021 14:29:58 INFO   [Log] - Clicked on poonamghatage21@gmail.com from suggestion
+19 Oct 2021 14:30:04 INFO   [Log] - Opened new tab
+19 Oct 2021 14:30:19 INFO   [Log] - Switched to frame
+19 Oct 2021 14:30:29 INFO   [Log] - Pressed Enter Key 
+19 Oct 2021 14:30:36 INFO   [Log] - Switched to window
+19 Oct 2021 14:30:36 INFO   [Log] - Return:CDwindow-9992C21702600743B4D836B63B93619A
+19 Oct 2021 14:30:36 INFO   [Log] - Switched to window
+19 Oct 2021 14:30:36 INFO   [Log] - Return:CDwindow-ABA8AA455E3354D15078A893FF3386B7
+19 Oct 2021 14:30:37 INFO   [Log] - Switched to window
+19 Oct 2021 14:30:37 INFO   [Log] - Return:CDwindow-2DA6739B1E363083762C25ABEC98F418
+19 Oct 2021 14:30:37 INFO   [Log] - Clicked on No,thanks
+19 Oct 2021 14:30:37 INFO   [Log] - Clicked on Google apps
+19 Oct 2021 14:30:37 INFO   [Log] - Switched to frame
